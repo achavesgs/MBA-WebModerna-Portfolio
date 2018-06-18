@@ -14,9 +14,10 @@
     bottom: 0;
     width: 100%;
     text-align: center;
-    padding: 20px;
+    padding: 9px;
     background-color:black;
     color: white;
+    font-size: small;
 }
 
 .thumb {
@@ -52,4 +53,9 @@
     background-color: gray;
     color: white;
     text-align: left;
+}
+
+#iframe{
+    width: 100%;
+    border: none;
 }
